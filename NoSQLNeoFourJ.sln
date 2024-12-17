@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSQLNeoFourJ", "NoSQLNeoFourJ\NoSQLNeoFourJ.csproj", "{A8F12501-2238-42D8-A848-44C52826641F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F12501-2238-42D8-A848-44C52826641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F12501-2238-42D8-A848-44C52826641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F12501-2238-42D8-A848-44C52826641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F12501-2238-42D8-A848-44C52826641F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FAA48D-6DF8-4BBD-B59C-61ED538EF4A4}
+	EndGlobalSection
+EndGlobal
